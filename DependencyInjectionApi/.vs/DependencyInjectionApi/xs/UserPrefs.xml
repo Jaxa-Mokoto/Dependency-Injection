@@ -1,0 +1,28 @@
+﻿<Properties StartupConfiguration="{6DC1CCEB-CD58-4454-B12A-54566F444F29}|DepenedencyInjectionApi">
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workbench ActiveDocument="Data/SqlDataRepo.cs">
+    <Files>
+      <File FileName="Data/IDataRepo.cs" Line="1" Column="1" />
+      <File FileName="Data/SqlDataRepo.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="DependencyInjectionApi" expanded="True">
+            <Node name="DependencyInjectionApi" expanded="True">
+              <Node name="Data" expanded="True">
+                <Node name="SqlDataRepo.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.DependencyInjectionApi PreferredExecutionTarget="/Applications/Safari.app" />
+  <MultiItemStartupConfigurations />
+</Properties>
